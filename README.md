@@ -1,7 +1,7 @@
 # hello-world
-Este es un nuevo repo
+Este es un *primer* repo
 
--- Leydi Chipana 20202209
+Chipana, Leydi 
 
 ## Primer subtitulo
 
